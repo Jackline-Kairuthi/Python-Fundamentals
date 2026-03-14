@@ -1,7 +1,7 @@
 <h1> Python Fundamentals </h1>
-This repository contains my solutions to Python-fundamentals exercises covering variables, data types, arithmetic, loops, conditional statements, lists, dictionaries, sets, and small logic‑based programs. It serves as a structured record of my learning and practice as I build strong foundations for automation, scripting, and developing workflows.
+This repository contains my solutions to Python-fundamentals exercises covering variables, data types, arithmetic, loops, conditional statements, lists, dictionaries, sets, and small logic‑based programs. It serves as a structured record of my learning and practice as I build a strong foundation in automation, scripting, and workflow development.
 
-<h1>📘 Concepts Covered <h1>
+<br />📘 Concepts Covered <br />
 
 ● Variables and data types
 
@@ -19,12 +19,12 @@ This repository contains my solutions to Python-fundamentals exercises covering 
 
 ● Writing clean, modular Python scripts
 
-<h2><br /> Technologies Used <br /><h2>
-● Python 3.12.12
+<br /> Technologies Used <br />
+● 🐍Python 3.12.12
   
-● Google Colab
+● 💻Google Colab
 
-<h3><br />📘 Questions and Solutions<br /><h3>
+<br />📘 Questions and Solutions <br />
 
 Q1. Basic Arithmetic Operations
 ➡️ Solution ([github.com in Bing](https://github.com/Jackline-Kairuthi/Python-Fundamentals/blob/main/q1_arithmetic.py))
