@@ -29,3 +29,8 @@ Q9. Number Guessing Game
 
 Q10. Loop + Condition Integration
 ➡️ Solution ([github.com in Bing](https://github.com/Jackline-Kairuthi/Python-Fundamentals/blob/main/q10_loop_condition.py))
+
+
+
+📄 Notebook
+➡️ assignment_solutions.ipynb ([github.com in Bing](https://github.com/Jackline-Kairuthi/Python-Fundamentals/blob/main/Python_Fundamentals.ipynb))
