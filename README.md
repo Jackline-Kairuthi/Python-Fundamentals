@@ -1,4 +1,30 @@
-📘 Assignment Questions and Solutions
+<h1> Python Fundamentals </h1>
+This repository contains my solutions to Python-fundamentals exercises covering variables, data types, arithmetic, loops, conditional statements, lists, dictionaries, sets, and small logic‑based programs. It serves as a structured record of my learning and practice as I build strong foundations for automation, scripting, and developing workflows.
+
+<h1>📘 Concepts Covered <h1>
+
+● Variables and data types
+
+● User input and type conversion
+
+● Arithmetic and comparison operators
+
+● Conditional statements (if, elif, else)
+
+● Loops (for, while)
+
+● Lists, dictionaries, and sets
+
+● Basic logic and problem‑solving
+
+● Writing clean, modular Python scripts
+
+<h2><br /> Technologies Used <br /><h2>
+● Python 3.12.12
+  
+● Google Colab
+
+<h3><br />📘 Questions and Solutions<br /><h3>
 
 Q1. Basic Arithmetic Operations
 ➡️ Solution ([github.com in Bing](https://github.com/Jackline-Kairuthi/Python-Fundamentals/blob/main/q1_arithmetic.py))
